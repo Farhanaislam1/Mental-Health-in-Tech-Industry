@@ -33,8 +33,8 @@ In This project, I have analyzed the results of a 2014 survey that measures atti
 ## 📈 Visualizations
 
 ## Gender Distribution after preprocessing- The number of males in the dataset are 4 times the number of females
-![image](https://github.com/user-attachments/assets/348f1149-24a3-495b-834c-bcf50a42c132)
-  
+![image](https://github.com/user-attachments/assets/61242b0e-e495-451a-a4a1-158b3243962b)
+
 ## Age Distribution after preprocessing - The most frequent age present in this data is around late 20s and early 30s.
 ![image](https://github.com/user-attachments/assets/e32ad493-25a3-4b31-9ecc-f4295f7f45f8)
 
