@@ -18,7 +18,7 @@ This project analyzes the results of a 2014 survey that measures attitudes towar
 
 - **Data Cleaning**: Handling missing values, standardizing categories.
 - **Exploratory Data Analysis**: Demographics, mental health treatment trends, employer support.
-- **Visualization**: Bar plots, heatmaps, and pie charts using `matplotlib` and `seaborn`.
+- **Visualization**: Bar plots, Box plot, Scatter Plot, and pie charts using `matplotlib` and `seaborn`.
 - **Insights**:
   - Employees are more likely to seek help when employers provide resources.
   - Younger age groups report higher openness about mental health.
@@ -30,16 +30,28 @@ This project analyzes the results of a 2014 survey that measures attitudes towar
 - Jupyter Notebook
 - Git/GitHub
 
-## 📈 Sample Visualizations
+## 📈 Visualizations
 
-> Add images or charts here if applicable  
-`e.g. ![Openness to Mental Health Disclosure](visuals/disclosure_chart.png)`
+## Gender Distribution after preprocessing
+### The number of males in the dataset are 4 times the number of females
+ ![image](https://github.com/user-attachments/assets/348f1149-24a3-495b-834c-bcf50a42c132)
+  
+## Age Distribution after preprocessing - The most frequent age present in this data is around late 20s and early 30s.
+![image](https://github.com/user-attachments/assets/e32ad493-25a3-4b31-9ecc-f4295f7f45f8)
+
+## Age Distribution by Gender
+![image](https://github.com/user-attachments/assets/c5793939-5960-4c67-98f7-c248e6344758)
+## Age Distribution by treatment
+![image](https://github.com/user-attachments/assets/1675b958-3825-45dc-81e3-2874f85acda5)
+
 
 ## 💡 Future Improvements
 
-- Build a dashboard using Power BI or Tableau for interactive visual analysis.
-- Use machine learning to predict likelihood of seeking treatment based on demographics and workplace support.
-- Compare with more recent OSMI datasets (e.g., 2020+).
+- Survey was conducted in 2014 with limited dataset (27 columns & 1259 rows)
+- Mostly US data was collected for this survey
+- Although the survey was specifically designed to be conducted in the tech field, there are close to 18% of the companies belong to the non tech field. 
+- Require recent data to get a clear picture of the mental health in tech company, because after Covid working conditions changed a lot
+
 
 ## 🙋‍♀️ About Me
 
