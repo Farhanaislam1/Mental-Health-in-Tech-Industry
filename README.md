@@ -1,7 +1,7 @@
 # Mental-Health-in-Tech-Industry
 # 🧠 Mental Health in the Tech Industry
 
-This project analyzes the results of a 2014 survey that measures attitudes toward mental health and the prevalence of mental health disorders in the tech workplace.
+In This project, I have analyzed the results of a 2014 survey that measures attitudes toward mental health and the prevalence of mental health disorders in the tech workplace.
 
 ## 📊 Dataset Information
 
